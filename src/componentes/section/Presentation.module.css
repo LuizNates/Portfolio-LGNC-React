@@ -1,0 +1,35 @@
+.presentation{
+    text-align: left;
+    margin-left: 5%;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+}
+
+.presentation h1{
+    font-size: 45px;
+}
+
+.presentation h4{
+    font-size: 20px;
+}
+
+.presentation img{
+    width: 500px;
+    border-radius: 20px;
+}
+
+.boasVindas{
+    width: 50%;
+    height: 50%;
+    align-items: left;
+}
+
+
+.foto{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+}
+    
