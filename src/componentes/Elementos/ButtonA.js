@@ -4,7 +4,9 @@ function ButtonA({text, link}){
     return(
         <div>
             <a href={link}>
-                <button className={styles.btn}>{text}</button>
+            <button> 
+                <span>Conecte-se comigo!</span>
+            </button>
             </a>
         </div>
     )
