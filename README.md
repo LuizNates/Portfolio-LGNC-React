@@ -1,8 +1,14 @@
-New changes 05/06/2024:
-- New button in presentation.
-- Shape adjustments in skills.
+New changes - second version 05/06/2024:
+- New stylized button in presentation.
+- Shape adjustments in skills for more space in screen.
 
-# Getting Started with Create React App
+Creation - first version 22/05/2024: 
+- This project was made to prove my knowledges in Front-end development.
+- In this project we have the most interative site that I've made, with de auto writing in the presentation for example.
+- This project was made with HTML, CSS and JavaScript in React.js.
+- You can expect a lot of informations about me and my latest projects showing my evolution.
+
+# Getting Started with Create React App - How to open the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
