@@ -1,3 +1,7 @@
+New changes 05/06/2024:
+- New button in presentation.
+- Shape adjustments in skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
