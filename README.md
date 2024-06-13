@@ -1,3 +1,6 @@
+New changes - third version 13/06/2024:
+- Responsive version.
+
 New changes - second version 05/06/2024:
 - New stylized button in presentation.
 - Shape adjustments in skills for more space in screen.
