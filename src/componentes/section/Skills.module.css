@@ -32,3 +32,23 @@
     height: 180px;
     
 }
+
+@media screen and (max-width: 1200px){
+    .skill{
+        width: 80%;
+        margin-left: 7%;
+    }
+
+    .skill h1{
+        margin-left: 3%;
+    }
+
+    .skill p{
+        margin-left: -15%;
+    }
+
+    .skill img{
+        margin-left: -20%;
+        margin-top: 8%;
+    }
+}

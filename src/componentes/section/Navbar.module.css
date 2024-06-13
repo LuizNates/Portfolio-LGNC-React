@@ -19,3 +19,9 @@
     color: aliceblue !important;
     
 }
+
+@media screen and (max-width: 1200px){
+    .navbar{
+        display: none;
+    }
+}

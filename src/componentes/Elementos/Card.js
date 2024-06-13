@@ -1,7 +1,7 @@
 import styles from './Card.module.css'
 import {useState} from 'react'
 
-function Card({img,title,tech,description,site}){
+function Card({img,title,tech,description,site,responsividade}){
 
     const [info, setInfo] = useState(false)
 
@@ -24,6 +24,7 @@ function Card({img,title,tech,description,site}){
                 <h3>{title}</h3>
                 <p><strong>Tecnologias:</strong> {tech}</p>
                 <p>{description}</p>
+                <p>Responsividade: {responsividade}</p>
                 </section>
              )}   
 

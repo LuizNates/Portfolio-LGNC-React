@@ -27,3 +27,10 @@
 .card h3{
     font-size: 25px;
 }
+
+@media screen and (max-width: 1200px){
+    .card img{
+        width: 135%;
+        margin-left: -32%;
+    }
+}

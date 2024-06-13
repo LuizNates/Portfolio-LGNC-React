@@ -19,6 +19,7 @@ function Projects(){
                 description="Projeto Full-Stack realizado para fixação do conteudo de consumo de API"
                 repo="https://github.com/LuizNates/pagina-dnc-api"
                 site="https://desafio-dnc-api-ln.netlify.app"
+                responsividade= "Não"
             />
             <Card
                 img={ccxpdnc}
@@ -27,6 +28,7 @@ function Projects(){
                 description="Projeto Full-Stack realizado para fixação do conteudo de JavaScript"
                 repo="https://github.com/LuizNates/CCXP-DNC"
                 site="https://ccxp-dnc-ln.netlify.app"
+                responsividade= "Não"
             />
             <Card
                 img={portfolio2}
@@ -35,6 +37,7 @@ function Projects(){
                 description="Projeto para treino de conteúdo HTML e CSS"
                 repo="https://github.com/LuizNates/portfolio-luiznates"
                 site="https://luiznatesportflio.netlify.app"
+                responsividade= "Não"
             />
             <Card
                 img={bootcampdnc}
@@ -43,6 +46,7 @@ function Projects(){
                 description="Projeto para treino de conteúdo HTML e CSS"
                 repo="https://github.com/LuizNates/Bootcamp-DNC"
                 site="https://bootcampdncluiznates.netlify.app"
+                responsividade= "Sim"
             />
             <Card
                 img={lpdnc}
@@ -51,6 +55,7 @@ function Projects(){
                 description="Projeto para treino de conteúdo HTML e CSS"
                 repo="https://github.com/LuizNates/projeto-landing-page"
                 site="https://projeto-teste-dnc-ln.netlify.app"
+                responsividade= "Não"
             />
         </div>
     )

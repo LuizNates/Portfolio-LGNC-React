@@ -7,3 +7,9 @@
     font-size: 45px;
     text-align: center;
 }
+
+@media screen and (max-width: 1200px){
+    .projects h1{
+        margin-left: -10%;
+    }
+}
